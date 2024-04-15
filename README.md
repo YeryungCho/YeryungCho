@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=skyblue&height=100px&section=header&text=YeryungCho&fontSize=30px" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />$nbsp
 </div>
 
 <br>
@@ -41,5 +40,5 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align=center>🌱 Velog link 🌱</h3>
-<p>https://velog.io/@kangkang59/posts</p>
+<h3 align="center">🌱 Velog link 🌱</h3>
+<p align="center">https://velog.io/@kangkang59/posts</p>
