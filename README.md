@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=skyblue&height=100px&section=header&text=YeryungCho GitHub&fontSize=30px" />
-출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=skyblue&height=100px&section=header&text=YeryungCho&fontSize=30px" />
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -27,9 +26,9 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />$nbsp
 </div>
 
 <br>
@@ -40,3 +39,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
 </div>
 
+<br>
+
+<h3 align=center>🌱 Velog link 🌱</h3>
+<p>https://velog.io/@kangkang59/posts</p>
