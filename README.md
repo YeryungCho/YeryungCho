@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-
+<!--
 <h3 align="center">🌱 Velog link 🌱</h3>
 <p align="center">https://velog.io/@kangkang59/posts</p>
+-->
